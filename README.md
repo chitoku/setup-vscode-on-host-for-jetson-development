@@ -9,9 +9,12 @@ https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 
 ## Extensions
 
-### Basic
+### Retemo - SSH
 
 Install the following extensions
 
-- [Remote - SSH] (https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-- 
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+Type `Ctrl + Shift + P`, type "Remote-SSH", select "Remote-SSH: Connect to host...".
+
+Type "`<username>@<ip_of_jetson>`"
